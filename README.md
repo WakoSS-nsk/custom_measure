@@ -1,2 +1,3 @@
-# custmeas
-I just want to keep in mind the difference between measurement systems, small handout =)
+# custom_measure
+Just my first try in c++<br>
+It was a small, but an amazing experience.
